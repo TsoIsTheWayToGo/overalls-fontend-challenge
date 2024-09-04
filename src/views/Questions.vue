@@ -21,7 +21,7 @@
           />
           <p
             v-if="!answers[question.id] && question.required && showErrorState"
-            class="text-red-500 text-sm mt-[-1.2rem]"
+            class="text-errors text-sm mt-[-1.2rem]"
           >
             This field is required.
           </p>

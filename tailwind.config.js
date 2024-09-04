@@ -5,7 +5,8 @@ module.exports = {
       colors: {
         primary: '#0A5C5E',
         inputBg: '#FFFFFF',
-        black: '#000000'
+        black: '#000000',
+        errors: '#b71d4b'
       },
       fontFamily: {
         sans: ['Poppins', 'sans-serif']
