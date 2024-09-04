@@ -42,3 +42,6 @@ npm install
 npm run dev
 ```
 
+## Contact
+
+If you have any questions or suggestions, please contact [Eric Tso](mailto:ericgordontso@gmail.com).
