@@ -14,6 +14,8 @@ This is a Vite-powered Vue 3 application that asks users a series of questions a
 - **Smooth Transitions**: Transitions between different pages of questions for a better user experience.
 - **Tailwind CSS**: Basic styling is provided using Tailwind CSS for a clean and modern look.
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/80f87e08086f434aac1b4c144c91b3a1?sid=2a0e1d90-3dd5-467d-b7f1-dbb8a8d29a5a" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 ## Installation
 
 To run this project locally, follow these steps:
